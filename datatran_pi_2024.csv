@@ -1,0 +1,224 @@
+data_inversa;dia_semana;horario;uf;br;km;municipio;causa_acidente;tipo_acidente;classificacao_acidente;condicao_metereologica;tipo_pista;tracado_via;pessoas;mortos;feridos_leves;feridos_graves;ilesos;ignorados;feridos;veiculos
+2024-01-08;segunda-feira;10:40:00;PI;316;7;TERESINA;Condutor deixou de manter dist�ncia do ve�culo da frente;Colis�o traseira;Com V�timas Feridas;Sol;Dupla;"Reta;Declive                  ";5;0;2;2;1;0;4;2
+2024-01-26;sexta-feira;09:05:00;PI;316;288;DOM EXPEDITO LOPES;Problema com o freio;Colis�o traseira;Com V�timas Feridas;Sol;Simples;"Reta;Declive                  ";2;0;1;0;1;0;1;2
+2024-02-08;quinta-feira;15:10:00;PI;316;69,2;MONSENHOR GIL;Entrada inopinada do pedestre;Atropelamento de Pedestre;Com V�timas Fatais;Sol;Simples;Reta;3;1;0;0;1;1;0;3
+2024-02-12;segunda-feira;10:00:00;PI;316;39,5;LAGOA DO PIAUI;Aus�ncia de rea��o do condutor;Colis�o traseira;Com V�timas Feridas;Sol;Simples;Reta;3;0;1;0;2;0;1;2
+2024-02-18;domingo;12:24:00;PI;316;10;TERESINA;Manobra de mudan�a de faixa;Colis�o lateral mesmo sentido;Sem V�timas;Sol;M�ltipla;Reta;2;0;0;0;2;0;0;2
+2024-02-24;s�bado;06:50:00;PI;316;390,4;FRANCISCO MACEDO;Condutor deixou de manter dist�ncia do ve�culo da frente;Colis�o traseira;Com V�timas Feridas;Sol;Simples;"Declive;Ponte;Reta            ";2;0;1;0;1;0;1;2
+2024-01-08;segunda-feira;14:35:00;PI;343;12,7;PARNAIBA;Condutor desrespeitou a ilumina��o vermelha do sem�foro;Colis�o transversal;Com V�timas Feridas;Sol;Dupla;Reta;4;0;2;0;2;0;2;2
+2024-01-12;sexta-feira;06:16:00;PI;343;21;PARNAIBA;Aus�ncia de rea��o do condutor;Sa�da de leito carro��vel;Sem V�timas;Sol;Simples;Reta;1;0;0;0;0;1;0;1
+2024-01-17;quarta-feira;13:16:00;PI;343;344;TERESINA;Desrespeitar a prefer�ncia no cruzamento;Colis�o transversal;Com V�timas Feridas;Sol;Dupla;"Rotat�ria;Reta;Declive;Interse";2;0;1;0;1;0;1;2
+2024-01-20;s�bado;15:34:00;PI;343;18,7;PARNAIBA;Ingest�o de �lcool pelo condutor;Colis�o traseira;Sem V�timas;Sol;Simples;Reta;2;0;0;0;2;0;0;2
+2024-02-04;domingo;08:10:00;PI;20;343,5;SANTO ANTONIO DE LISBOA;Ingest�o de �lcool pelo condutor;Tombamento;Com V�timas Feridas;Sol;Simples;Reta;1;0;0;1;0;0;1;1
+2024-02-04;domingo;11:40:00;PI;316;32,8;DEMERVAL LOBAO;Aus�ncia de rea��o do condutor;Colis�o com objeto;Sem V�timas;Sol;M�ltipla;Reta;2;0;0;0;2;0;0;2
+2024-02-04;domingo;16:45:00;PI;316;43,5;LAGOA DO PIAUI;Animais na Pista;Atropelamento de Animal;Com V�timas Feridas;Sol;Simples;Reta;2;0;0;1;1;0;1;2
+2024-02-11;domingo;15:08:00;PI;343;330,7;TERESINA;Ultrapassagem Indevida;Colis�o lateral mesmo sentido;Sem V�timas;Sol;Simples;Reta;2;0;0;0;2;0;0;2
+2024-02-16;sexta-feira;17:50:00;PI;316;315;PICOS;Manobra de mudan�a de faixa;Colis�o transversal;Com V�timas Feridas;Sol;Dupla;Reta;2;0;1;1;0;0;2;2
+2024-01-02;ter�a-feira;13:31:00;PI;316;245,5;INHUMA;Acessar a via sem observar a presen�a dos outros ve�culos;Colis�o transversal;Sem V�timas;Nublado;Simples;Reta;3;0;0;0;3;0;0;3
+2024-01-10;quarta-feira;13:00:00;PI;343;266,7;CAMPO MAIOR;Acessar a via sem observar a presen�a dos outros ve�culos;Colis�o transversal;Com V�timas Feridas;Nublado;Simples;Reta;3;0;1;1;1;0;2;2
+2024-01-11;quinta-feira;17:40:00;PI;316;101;BARRO DURO;Manobra de mudan�a de faixa;Colis�o lateral mesmo sentido;Com V�timas Feridas;Nublado;Simples;"Aclive;Curva                  ";2;0;0;1;1;0;1;2
+2024-01-25;quinta-feira;09:10:00;PI;316;273,3;DOM EXPEDITO LOPES;Acesso irregular;Colis�o lateral mesmo sentido;Sem V�timas;Nublado;Simples;"Aclive;Reta                   ";6;0;0;0;6;0;0;2
+2024-02-03;s�bado;13:30:00;PI;316;42,4;LAGOA DO PIAUI;Rea��o tardia ou ineficiente do condutor;Sa�da de leito carro��vel;Com V�timas Feridas;Nublado;Simples;Reta;1;0;1;0;0;0;1;1
+2024-02-20;ter�a-feira;16:20:00;PI;316;415;MARCOLANDIA;Condutor deixou de manter dist�ncia do ve�culo da frente;Colis�o traseira;Com V�timas Feridas;Nublado;Simples;Reta;4;0;1;0;3;0;1;2
+2024-01-01;segunda-feira;19:00:00;PI;222;85;PIRIPIRI;Demais falhas na via;Queda de ocupante de ve�culo;Com V�timas Feridas;Nublado;Simples;Reta;1;0;0;1;0;0;1;1
+2024-01-02;ter�a-feira;18:02:00;PI;343;548;FRANCISCO AYRES;Rea��o tardia ou ineficiente do condutor;Sa�da de leito carro��vel;Com V�timas Feridas;Nublado;Simples;Reta;3;0;3;0;0;0;3;1
+2024-01-03;quarta-feira;10:00:00;PI;343;3;TERESINA;Condutor deixou de manter dist�ncia do ve�culo da frente;Colis�o traseira;Com V�timas Feridas;Nublado;Dupla;Reta;4;0;4;0;0;0;4;2
+2024-01-08;segunda-feira;05:05:00;PI;316;154,5;ELESBAO VELOSO;Transitar na contram�o;Colis�o frontal;Com V�timas Fatais;Nublado;Simples;Reta;4;1;0;0;3;0;0;2
+2024-01-12;sexta-feira;15:30:00;PI;316;2,4;TERESINA;Estacionar ou parar em local proibido;Colis�o traseira;Com V�timas Feridas;Nublado;Simples;"Aclive;Reta;Viaduto           ";4;0;2;0;2;0;2;3
+2024-01-13;s�bado;00:00:00;PI;343;596;FLORIANO;Entrada inopinada do pedestre;Atropelamento de Pedestre;Com V�timas Fatais;Nublado;Simples;"Reta;Aclive                   ";2;1;0;0;0;1;0;2
+2024-01-14;domingo;17:30:00;PI;135;503,5;MONTE ALEGRE DO PIAUI;Acessar a via sem observar a presen�a dos outros ve�culos;Colis�o transversal;Com V�timas Feridas;Nublado;Simples;"Interse��o de Vias;Reta       ";2;0;0;1;0;1;1;2
+2024-01-14;domingo;20:25:00;PI;135;231;COLONIA DO GURGUEIA;Animais na Pista;Atropelamento de Animal;Com V�timas Fatais;Nublado;Simples;Reta;1;1;0;0;0;0;0;1
+2024-01-21;domingo;01:00:00;PI;316;100,9;BARRO DURO;Animais na Pista;Atropelamento de Animal;Com V�timas Feridas;Nublado;Simples;Reta;2;0;0;2;0;0;2;1
+2024-01-24;quarta-feira;07:33:00;PI;316;32,3;DEMERVAL LOBAO;Acessar a via sem observar a presen�a dos outros ve�culos;Colis�o transversal;Com V�timas Feridas;Nublado;Dupla;Reta;2;0;1;0;1;0;1;2
+2024-01-24;quarta-feira;11:40:00;PI;230;286;FLORIANO;Rea��o tardia ou ineficiente do condutor;Sa�da de leito carro��vel;Sem V�timas;Nublado;Simples;Reta;1;0;0;0;0;1;0;1
+2024-01-25;quinta-feira;15:18:00;PI;316;68;MONSENHOR GIL;Aus�ncia de rea��o do condutor;Colis�o transversal;Com V�timas Feridas;Nublado;Simples;"Reta;Em Obras                 ";2;0;0;1;1;0;1;2
+2024-01-27;s�bado;19:15:00;PI;316;306;PICOS;Manobra de mudan�a de faixa;Colis�o lateral sentido oposto;Com V�timas Feridas;Nublado;Simples;Curva;4;0;0;1;1;2;1;4
+2024-01-28;domingo;09:30:00;PI;343;347,7;TERESINA;Entrada inopinada do pedestre;Atropelamento de Pedestre;Com V�timas Feridas;Nublado;Simples;Reta;2;0;1;0;1;0;1;2
+2024-01-29;segunda-feira;08:05:00;PI;343;308;ALTOS;Acessar a via sem observar a presen�a dos outros ve�culos;Colis�o transversal;Com V�timas Feridas;Nublado;Simples;Reta;3;0;0;1;2;0;1;2
+2024-02-03;s�bado;18:30:00;PI;343;103;COCAL;Avarias e/ou desgaste excessivo no pneu;Sa�da de leito carro��vel;Com V�timas Feridas;Nublado;Simples;Reta;2;0;0;1;1;0;1;1
+2024-02-05;segunda-feira;03:30:00;PI;316;230;INHUMA;Aus�ncia de rea��o do condutor;Colis�o traseira;Com V�timas Feridas;Nublado;Simples;"Aclive;Reta                   ";2;0;2;0;0;0;2;2
+2024-02-09;sexta-feira;22:25:00;PI;NA;NA;CRISTINO CASTRO;Pista Escorregadia;Sa�da de leito carro��vel;Sem V�timas;Nublado;Simples;"Reta;Interse��o de Vias       ";3;0;0;0;3;0;0;1
+2024-02-10;s�bado;19:00:00;PI;343;19;PARNAIBA;Entrada inopinada do pedestre;Atropelamento de Pedestre;Com V�timas Fatais;Nublado;Simples;Reta;2;1;0;0;0;1;0;2
+2024-02-10;s�bado;19:40:00;PI;230;308;FLORIANO;Ingest�o de �lcool pelo condutor;Colis�o transversal;Com V�timas Feridas;Nublado;Simples;Curva;3;0;1;2;0;0;3;2
+2024-01-14;domingo;19:30:00;PI;316;44,1;LAGOA DO PIAUI;Animais na Pista;Atropelamento de Animal;Com V�timas Feridas;Nublado;Simples;"Interse��o de Vias;Reta       ";4;0;3;0;1;0;3;1
+2024-02-11;domingo;17:55:00;PI;316;32;DEMERVAL LOBAO;Manobra de mudan�a de faixa;Colis�o transversal;Sem V�timas;Nublado;Dupla;Reta;2;0;0;0;1;1;0;2
+2024-02-11;domingo;19:00:00;PI;135;307;CRISTINO CASTRO;Transitar na contram�o;Colis�o frontal;Com V�timas Fatais;Nublado;Simples;"Reta;Declive                  ";3;1;0;0;2;0;0;2
+2024-02-15;quinta-feira;01:00:00;PI;316;4,9;TERESINA;Aus�ncia de rea��o do condutor;Colis�o com objeto;Sem V�timas;Nublado;M�ltipla;Declive;1;0;0;0;0;1;0;1
+2024-02-18;domingo;17:50:00;PI;343;266;CAMPO MAIOR;Ingest�o de �lcool pelo condutor;Colis�o traseira;Com V�timas Feridas;Nublado;Simples;Reta;5;0;3;0;2;0;3;2
+2024-01-13;s�bado;06:00:00;PI;343;0,9;TERESINA;Retorno proibido;Colis�o traseira;Sem V�timas;Nublado;Dupla;"Reta;Retorno Regulamentado;Acl";3;0;0;0;3;0;0;3
+2024-02-23;sexta-feira;10:00:00;PI;343;264,5;CAMPO MAIOR;Condutor deixou de manter dist�ncia do ve�culo da frente;Colis�o traseira;Sem V�timas;Nublado;Simples;Reta;2;0;0;0;1;1;0;2
+2024-02-25;domingo;20:50:00;PI;343;345;TERESINA;Condutor desrespeitou a ilumina��o vermelha do sem�foro;Colis�o transversal;Com V�timas Feridas;Nublado;Dupla;Reta;1;0;0;1;0;0;1;1
+2024-02-27;ter�a-feira;08:55:00;PI;343;307,6;ALTOS;Aus�ncia de rea��o do condutor;Colis�o lateral mesmo sentido;Com V�timas Feridas;Nublado;Simples;Reta;2;0;1;0;1;0;1;2
+2024-02-29;quinta-feira;01:30:00;PI;407;477;JAICOS;Condutor Dormindo;Sa�da de leito carro��vel;Com V�timas Feridas;Nublado;Simples;Reta;1;0;0;1;0;0;1;1
+2024-02-29;quinta-feira;23:55:00;PI;343;1,8;TERESINA;Aus�ncia de rea��o do condutor;Colis�o com objeto;Com V�timas Feridas;Nublado;M�ltipla;Interse��o de Vias;2;0;1;0;1;0;1;1
+2024-02-23;sexta-feira;23:15:00;PI;135;337;SANTA LUZ;Animais na Pista;Atropelamento de Animal;Sem V�timas;Nevoeiro/Neblina;Simples;Reta;3;0;0;0;3;0;0;1
+2024-01-02;ter�a-feira;19:32:00;PI;343;1,5;TERESINA;Condutor deixou de manter dist�ncia do ve�culo da frente;Colis�o traseira;Com V�timas Feridas;Ignorado;Dupla;Interse��o de Vias;2;0;1;0;1;0;1;2
+2024-01-07;domingo;20:00:00;PI;135;76,5;CANAVIEIRA;Rea��o tardia ou ineficiente do condutor;Sa�da de leito carro��vel;Com V�timas Feridas;Ignorado;Simples;Retorno Regulamentado;5;0;4;1;0;0;5;1
+2024-01-12;sexta-feira;18:00:00;PI;343;589;FLORIANO;Manobra de mudan�a de faixa;Colis�o lateral mesmo sentido;Com V�timas Feridas;Ignorado;Dupla;Reta;3;0;2;0;1;0;2;2
+2024-01-13;s�bado;02:00:00;PI;343;592,5;FLORIANO;Aus�ncia de rea��o do condutor;Colis�o traseira;Sem V�timas;Ignorado;Simples;Rotat�ria;2;0;0;0;2;0;0;2
+2024-01-29;segunda-feira;18:53:00;PI;343;1,6;TERESINA;Frear bruscamente;Colis�o traseira;Com V�timas Feridas;Ignorado;Dupla;Reta;3;0;1;0;2;0;1;2
+2024-02-19;segunda-feira;20:50:00;PI;316;56,9;MONSENHOR GIL;Manobra de mudan�a de faixa;Colis�o lateral sentido oposto;Com V�timas Feridas;Garoa/Chuvisco;Simples;Reta;7;0;0;1;5;1;1;4
+2024-02-04;domingo;05:00:00;PI;343;502;AMARANTE;Transitar no Acostamento;Atropelamento de Pedestre;Com V�timas Feridas;Garoa/Chuvisco;Simples;Reta;2;0;1;0;0;1;1;2
+2024-02-17;s�bado;19:30:00;PI;316;14;TERESINA;Ingest�o de �lcool pelo condutor;Colis�o com objeto;Com V�timas Feridas;Garoa/Chuvisco;Dupla;Reta;2;0;1;0;1;0;1;1
+2024-02-22;quinta-feira;19:00:00;PI;343;315;ALTOS;Avarias e/ou desgaste excessivo no pneu;Sa�da de leito carro��vel;Com V�timas Feridas;Garoa/Chuvisco;Simples;Reta;2;0;2;0;0;0;2;1
+2024-01-01;segunda-feira;04:50:00;PI;343;185;PIRIPIRI;Manobra de mudan�a de faixa;Colis�o frontal;Com V�timas Fatais;C�u Claro;Simples;Reta;2;1;0;0;1;0;0;2
+2024-01-02;ter�a-feira;13:15:00;PI;343;335;TERESINA;Condutor deixou de manter dist�ncia do ve�culo da frente;Colis�o traseira;Sem V�timas;C�u Claro;Dupla;Reta;2;0;0;0;1;1;0;2
+2024-01-09;ter�a-feira;21:20:00;PI;230;195;OEIRAS;Aus�ncia de rea��o do condutor;Colis�o traseira;Com V�timas Feridas;C�u Claro;Simples;Reta;2;0;1;0;0;1;1;2
+2024-01-11;quinta-feira;03:47:00;PI;343;304,4;ALTOS;Desrespeitar a prefer�ncia no cruzamento;Colis�o transversal;Sem V�timas;C�u Claro;Simples;Reta;2;0;0;0;1;1;0;2
+2024-01-12;sexta-feira;07:10:00;PI;343;314,3;ALTOS;Transitar na contram�o;Colis�o frontal;Com V�timas Feridas;C�u Claro;Simples;Reta;2;0;0;1;1;0;1;2
+2024-01-15;segunda-feira;18:20:00;PI;343;86;BURITI DOS LOPES;Rea��o tardia ou ineficiente do condutor;Colis�o lateral mesmo sentido;Com V�timas Feridas;C�u Claro;Simples;Reta;3;0;1;1;1;0;2;2
+2024-01-16;ter�a-feira;17:30:00;PI;316;42;LAGOA DO PIAUI;Mal s�bito do condutor;Colis�o frontal;Com V�timas Fatais;C�u Claro;Simples;Curva;2;1;0;0;1;0;0;2
+2024-01-18;quinta-feira;02:10:00;PI;316;185,8;VALENCA DO PIAUI;Animais na Pista;Atropelamento de Animal;Sem V�timas;C�u Claro;Simples;"Ponte;Reta                    ";1;0;0;0;1;0;0;1
+2024-01-18;quinta-feira;06:20:00;PI;135;348;BOM JESUS;Rea��o tardia ou ineficiente do condutor;Colis�o traseira;Sem V�timas;C�u Claro;Simples;Reta;4;0;0;0;4;0;0;2
+2024-01-20;s�bado;16:30:00;PI;316;312;PICOS;Rea��o tardia ou ineficiente do condutor;Colis�o traseira;Sem V�timas;C�u Claro;Simples;Reta;2;0;0;0;2;0;0;2
+2024-01-21;domingo;10:40:00;PI;343;255;CAMPO MAIOR;Acesso irregular;Colis�o lateral mesmo sentido;Com V�timas Fatais;C�u Claro;Simples;Reta;4;1;2;0;1;0;2;2
+2024-01-21;domingo;13:27:00;PI;316;72;MONSENHOR GIL;Velocidade Incompat�vel;Sa�da de leito carro��vel;Com V�timas Feridas;C�u Claro;Simples;Curva;1;0;1;0;0;0;1;1
+2024-01-31;quarta-feira;02:40:00;PI;316;318;PICOS;Transitar na contram�o;Colis�o frontal;Com V�timas Fatais;C�u Claro;Simples;Reta;2;1;0;0;1;0;0;2
+2024-01-16;ter�a-feira;22:30:00;PI;343;204,6;PIRIPIRI;Ingest�o de �lcool pelo condutor;Colis�o lateral sentido oposto;Com V�timas Feridas;C�u Claro;Simples;Reta;6;0;1;0;0;5;1;3
+2024-02-08;quinta-feira;15:15:00;PI;316;309;PICOS;Aus�ncia de rea��o do condutor;Engavetamento;Sem V�timas;C�u Claro;Dupla;Reta;4;0;0;0;4;0;0;4
+2024-02-10;s�bado;04:30:00;PI;402;68;LUIS CORREIA;Transitar na contram�o;Colis�o lateral sentido oposto;Sem V�timas;C�u Claro;Simples;Reta;3;0;0;0;2;1;0;2
+2024-02-14;quarta-feira;17:15:00;PI;316;9;TERESINA;Manobra de mudan�a de faixa;Colis�o traseira;Com V�timas Feridas;C�u Claro;M�ltipla;Reta;2;0;1;0;1;0;1;2
+2024-02-17;s�bado;14:00:00;PI;316;314;PICOS;Transitar na contram�o;Colis�o frontal;Com V�timas Fatais;C�u Claro;Dupla;"Reta;Interse��o de Vias       ";2;1;0;0;1;0;0;2
+2024-02-18;domingo;00:50:00;PI;316;351;CAMPO GRANDE DO PIAUI;Transitar na contram�o;Colis�o frontal;Com V�timas Fatais;C�u Claro;Simples;Reta;2;1;0;0;0;1;0;2
+2024-01-23;ter�a-feira;10:30:00;PI;316;15;TERESINA;Rea��o tardia ou ineficiente do condutor;Sa�da de leito carro��vel;Com V�timas Feridas;C�u Claro;Dupla;Curva;2;0;0;1;1;0;1;2
+2024-01-21;domingo;19:30:00;PI;407;430;GEMINIANO;Ilumina��o deficiente;Colis�o lateral mesmo sentido;Com V�timas Feridas;C�u Claro;Simples;Reta;2;0;0;1;0;1;1;2
+2024-01-18;quinta-feira;03:00:00;PI;316;274;DOM EXPEDITO LOPES;Aus�ncia de rea��o do condutor;Tombamento;Com V�timas Feridas;C�u Claro;Dupla;Curva;1;0;0;1;0;0;1;1
+2024-02-24;s�bado;06:16:00;PI;316;98;BARRO DURO;Condutor Dormindo;Colis�o lateral sentido oposto;Com V�timas Feridas;C�u Claro;Simples;Reta;2;0;0;1;1;0;1;2
+2024-02-25;domingo;19:30:00;PI;316;44,5;LAGOA DO PIAUI;Aus�ncia de rea��o do condutor;Tombamento;Com V�timas Feridas;C�u Claro;Simples;Aclive;1;0;1;0;0;0;1;1
+2024-02-08;quinta-feira;08:12:00;PI;343;268;CAMPO MAIOR;Entrada inopinada do pedestre;Atropelamento de Pedestre;Com V�timas Feridas;C�u Claro;Simples;Reta;3;0;0;1;1;1;1;2
+2024-01-29;segunda-feira;07:30:00;PI;343;317;ALTOS;Rea��o tardia ou ineficiente do condutor;Sa�da de leito carro��vel;Com V�timas Feridas;C�u Claro;Simples;Reta;1;0;1;0;0;0;1;1
+2024-02-23;sexta-feira;23:00:00;PI;316;285;DOM EXPEDITO LOPES;Rea��o tardia ou ineficiente do condutor;Colis�o transversal;Com V�timas Feridas;C�u Claro;Simples;"Reta;Interse��o de Vias       ";2;0;0;1;0;1;1;2
+2024-01-01;segunda-feira;04:15:00;PI;316;3;TERESINA;Condutor desrespeitou a ilumina��o vermelha do sem�foro;Colis�o transversal;Com V�timas Feridas;C�u Claro;Dupla;Interse��o de Vias;3;0;1;0;0;2;1;3
+2024-01-02;ter�a-feira;07:14:00;PI;343;323;ALTOS;Acessar a via sem observar a presen�a dos outros ve�culos;Colis�o transversal;Com V�timas Feridas;C�u Claro;Simples;Reta;2;0;1;0;1;0;1;2
+2024-01-02;ter�a-feira;12:40:00;PI;343;185;PIRIPIRI;Convers�o proibida;Colis�o transversal;Com V�timas Feridas;C�u Claro;Simples;Reta;6;0;4;0;2;0;4;2
+2024-01-02;ter�a-feira;16:00:00;PI;316;392;ALEGRETE DO PIAUI;Acessar a via sem observar a presen�a dos outros ve�culos;Tombamento;Com V�timas Feridas;C�u Claro;Dupla;Reta;1;0;1;0;0;0;1;1
+2024-01-03;quarta-feira;11:50:00;PI;316;11;TERESINA;Acessar a via sem observar a presen�a dos outros ve�culos;Colis�o transversal;Sem V�timas;C�u Claro;Dupla;"Interse��o de Vias;Rotat�ria;V";2;0;0;0;2;0;0;2
+2024-01-03;quarta-feira;12:30:00;PI;316;261;IPIRANGA DO PIAUI;Acessar a via sem observar a presen�a dos outros ve�culos;Colis�o transversal;Com V�timas Feridas;C�u Claro;Simples;Reta;2;0;1;0;1;0;1;2
+2024-01-03;quarta-feira;18:40:00;PI;343;347;TERESINA;Animais na Pista;Atropelamento de Animal;Com V�timas Feridas;C�u Claro;Simples;Reta;2;0;1;0;1;0;1;2
+2024-01-04;quinta-feira;00:40:00;PI;343;52;BURITI DOS LOPES;Transitar na contram�o;Colis�o frontal;Com V�timas Fatais;C�u Claro;Simples;Reta;2;1;0;0;1;0;0;2
+2024-01-04;quinta-feira;14:15:00;PI;343;2,5;TERESINA;Transitar no Acostamento;Colis�o lateral mesmo sentido;Com V�timas Feridas;C�u Claro;Dupla;Reta;2;0;0;1;1;0;1;2
+2024-01-04;quinta-feira;17:13:00;PI;316;313;PICOS;Velocidade Incompat�vel;Colis�o transversal;Com V�timas Feridas;C�u Claro;Simples;Reta;2;0;0;1;1;0;1;2
+2024-01-04;quinta-feira;16:30:00;PI;343;345;TERESINA;Condutor desrespeitou a ilumina��o vermelha do sem�foro;Colis�o transversal;Sem V�timas;C�u Claro;Dupla;Reta;2;0;0;0;2;0;0;2
+2024-01-05;sexta-feira;12:17:00;PI;343;588;FLORIANO;Pista Escorregadia;Tombamento;Com V�timas Feridas;C�u Claro;Dupla;Interse��o de Vias;2;0;2;0;0;0;2;1
+2024-01-05;sexta-feira;17:12:00;PI;343;347;TERESINA;Animais na Pista;Atropelamento de Animal;Com V�timas Feridas;C�u Claro;Simples;Reta;3;0;1;0;2;0;1;1
+2024-01-05;sexta-feira;19:30:00;PI;316;54;MONSENHOR GIL;Aus�ncia de rea��o do condutor;Colis�o traseira;Com V�timas Feridas;C�u Claro;Simples;Reta;3;0;0;2;1;0;2;2
+2024-01-06;s�bado;09:10:00;PI;343;637;FLORIANO;Rea��o tardia ou ineficiente do condutor;Sa�da de leito carro��vel;Com V�timas Feridas;C�u Claro;Simples;Reta;2;0;0;1;1;0;1;1
+2024-01-06;s�bado;20:10:00;PI;316;313;PICOS;Aus�ncia de rea��o do condutor;Colis�o transversal;Sem V�timas;C�u Claro;Simples;Reta;1;0;0;0;1;0;0;1
+2024-01-06;s�bado;23:10:00;PI;343;254,2;CAMPO MAIOR;Animais na Pista;Queda de ocupante de ve�culo;Com V�timas Feridas;C�u Claro;Simples;Reta;2;0;1;0;1;0;1;1
+2024-01-07;domingo;16:40:00;PI;230;195;OEIRAS;Manobra de mudan�a de faixa;Colis�o lateral mesmo sentido;Com V�timas Feridas;C�u Claro;Simples;Reta;2;0;1;0;1;0;1;2
+2024-01-08;segunda-feira;06:20:00;PI;343;319,9;ALTOS;Acessar a via sem observar a presen�a dos outros ve�culos;Colis�o transversal;Com V�timas Feridas;C�u Claro;Simples;Reta;5;0;2;2;1;0;4;4
+2024-01-08;segunda-feira;15:15:00;PI;343;1;TERESINA;Aus�ncia de rea��o do condutor;Colis�o traseira;Com V�timas Feridas;C�u Claro;Dupla;Reta;4;0;1;0;3;0;1;2
+2024-01-08;segunda-feira;15:20:00;PI;343;206,7;CAPITAO DE CAMPOS;Transtornos Mentais (exceto suicidio);Colis�o com objeto;Com V�timas Feridas;C�u Claro;Simples;Reta;5;0;1;0;4;0;1;1
+2024-01-09;ter�a-feira;09:40:00;PI;316;3,9;TERESINA;Condutor desrespeitou a ilumina��o vermelha do sem�foro;Colis�o transversal;Sem V�timas;C�u Claro;Simples;"Interse��o de Vias;Viaduto    ";2;0;0;0;2;0;0;2
+2024-01-09;ter�a-feira;17:00:00;PI;316;295;PICOS;Acessar a via sem observar a presen�a dos outros ve�culos;Colis�o transversal;Com V�timas Feridas;C�u Claro;Simples;"Reta;Interse��o de Vias       ";2;0;2;0;0;0;2;2
+2024-01-11;quinta-feira;19:18:00;PI;343;13;PARNAIBA;Animais na Pista;Atropelamento de Animal;Com V�timas Feridas;C�u Claro;Dupla;Reta;1;0;1;0;0;0;1;1
+2024-01-11;quinta-feira;12:40:00;PI;316;309;PICOS;Aus�ncia de rea��o do condutor;Colis�o traseira;Sem V�timas;C�u Claro;Simples;Reta;2;0;0;0;2;0;0;2
+2024-01-12;sexta-feira;14:15:00;PI;343;3;TERESINA;Manobra de mudan�a de faixa;Colis�o lateral mesmo sentido;Com V�timas Feridas;C�u Claro;Dupla;Reta;2;0;1;0;1;0;1;2
+2024-01-13;s�bado;07:30:00;PI;135;352;BOM JESUS;Condutor deixou de manter dist�ncia do ve�culo da frente;Colis�o lateral mesmo sentido;Com V�timas Feridas;C�u Claro;Dupla;Reta;2;0;0;1;1;0;1;2
+2024-01-13;s�bado;23:30:00;PI;230;194;OEIRAS;Transitar na contram�o;Colis�o frontal;Com V�timas Feridas;C�u Claro;Simples;Reta;3;0;2;0;1;0;2;2
+2024-01-14;domingo;17:50:00;PI;230;192;OEIRAS;Acessar a via sem observar a presen�a dos outros ve�culos;Colis�o lateral mesmo sentido;Com V�timas Feridas;C�u Claro;Simples;Reta;3;0;2;0;1;0;2;2
+2024-01-14;domingo;19:55:00;PI;343;2,8;TERESINA;Convers�o proibida;Colis�o transversal;Com V�timas Feridas;C�u Claro;Dupla;Rotat�ria;2;0;0;1;1;0;1;2
+2024-01-15;segunda-feira;03:59:00;PI;343;313;ALTOS;Rea��o tardia ou ineficiente do condutor;Colis�o traseira;Com V�timas Feridas;C�u Claro;Simples;"Aclive;Reta                   ";2;0;1;0;1;0;1;2
+2024-01-16;ter�a-feira;09:21:00;PI;343;343;TERESINA;Aus�ncia de rea��o do condutor;Colis�o traseira;Sem V�timas;C�u Claro;Simples;"Reta;Ponte                    ";2;0;0;0;2;0;0;2
+2024-01-16;ter�a-feira;09:00:00;PI;343;609;FLORIANO;Aus�ncia de rea��o do condutor;Colis�o lateral mesmo sentido;Com V�timas Feridas;C�u Claro;Simples;Reta;2;0;0;1;1;0;1;2
+2024-01-18;quinta-feira;04:00:00;PI;343;210;CAPITAO DE CAMPOS;Aus�ncia de rea��o do condutor;Colis�o frontal;Com V�timas Fatais;C�u Claro;Simples;Reta;4;1;0;0;3;0;0;2
+2024-01-18;quinta-feira;13:46:00;PI;343;335,8;TERESINA;Transitar na contram�o;Sa�da de leito carro��vel;Com V�timas Fatais;C�u Claro;Dupla;Reta;2;1;0;1;0;0;1;2
+2024-01-19;sexta-feira;12:30:00;PI;343;142;PIRACURUCA;Aus�ncia de rea��o do condutor;Colis�o lateral mesmo sentido;Com V�timas Feridas;C�u Claro;Simples;"Ponte;Reta                    ";2;0;2;0;0;0;2;2
+2024-01-20;s�bado;09:00:00;PI;343;320,9;ALTOS;Avarias e/ou desgaste excessivo no pneu;Tombamento;Com V�timas Feridas;C�u Claro;Simples;Reta;2;0;2;0;0;0;2;1
+2024-01-20;s�bado;14:10:00;PI;135;363,9;BOM JESUS;Ultrapassagem Indevida;Colis�o frontal;Com V�timas Feridas;C�u Claro;Simples;"Aclive;Reta                   ";10;0;5;0;5;0;5;2
+2024-01-20;s�bado;14:20:00;PI;343;18,7;PARNAIBA;Acessar a via sem observar a presen�a dos outros ve�culos;Colis�o lateral mesmo sentido;Com V�timas Feridas;C�u Claro;Simples;Reta;2;0;1;0;1;0;1;2
+2024-01-20;s�bado;16:00:00;PI;316;2,8;TERESINA;Transitar na contram�o;Colis�o frontal;Sem V�timas;C�u Claro;M�ltipla;Reta;2;0;0;0;2;0;0;2
+2024-01-21;domingo;03:20:00;PI;343;175,6;PIRIPIRI;Animais na Pista;Atropelamento de Animal;Com V�timas Fatais;C�u Claro;Simples;Reta;2;1;0;0;1;0;0;2
+2024-01-21;domingo;19:20:00;PI;230;302;FLORIANO;Animais na Pista;Atropelamento de Animal;Sem V�timas;C�u Claro;Simples;"Reta;Declive                  ";2;0;0;0;2;0;0;1
+2024-01-22;segunda-feira;19:21:00;PI;316;9,1;TERESINA;Aus�ncia de rea��o do condutor;Colis�o traseira;Com V�timas Feridas;C�u Claro;M�ltipla;Reta;3;0;1;0;0;2;1;3
+2024-01-25;quinta-feira;17:30:00;PI;230;309,8;FLORIANO;Transitar na contram�o;Colis�o frontal;Com V�timas Feridas;C�u Claro;Simples;Reta;2;0;0;1;0;1;1;2
+2024-01-25;quinta-feira;20:04:00;PI;230;196;OEIRAS;Rea��o tardia ou ineficiente do condutor;Colis�o traseira;Com V�timas Feridas;C�u Claro;Simples;Reta;2;0;1;0;1;0;1;2
+2024-01-26;sexta-feira;15:13:00;PI;343;2;TERESINA;Manobra de mudan�a de faixa;Colis�o lateral mesmo sentido;Com V�timas Feridas;C�u Claro;Dupla;Reta;2;0;1;0;0;1;1;2
+2024-01-28;domingo;02:00:00;PI;343;256;CAMPO MAIOR;Ingest�o de �lcool pelo condutor;Queda de ocupante de ve�culo;Com V�timas Feridas;C�u Claro;Simples;Reta;1;0;1;0;0;0;1;1
+2024-01-28;domingo;17:50:00;PI;343;336;TERESINA;Ingest�o de �lcool pelo condutor;Sa�da de leito carro��vel;Sem V�timas;C�u Claro;Dupla;Reta;1;0;0;0;1;0;0;1
+2024-01-28;domingo;18:00:00;PI;343;593;FLORIANO;Ultrapassagem Indevida;Colis�o lateral mesmo sentido;Com V�timas Feridas;C�u Claro;Simples;Reta;4;0;3;0;0;1;3;2
+2024-01-28;domingo;23:50:00;PI;316;311,9;PICOS;Aus�ncia de rea��o do condutor;Colis�o com objeto;Sem V�timas;C�u Claro;M�ltipla;"Reta;Ponte                    ";1;0;0;0;0;1;0;1
+2024-01-29;segunda-feira;19:25:00;PI;230;309;FLORIANO;Acessar a via sem observar a presen�a dos outros ve�culos;Colis�o transversal;Com V�timas Feridas;C�u Claro;Simples;"Reta;Declive;Retorno Regulamen";3;0;1;1;1;0;2;2
+2024-01-30;ter�a-feira;03:30:00;PI;407;525;PATOS DO PIAUI;Condutor Dormindo;Sa�da de leito carro��vel;Sem V�timas;C�u Claro;Simples;"Reta;Declive                  ";1;0;0;0;1;0;0;1
+2024-02-02;sexta-feira;04:00:00;PI;343;0,9;TERESINA;Ingest�o de �lcool pelo condutor;Sa�da de leito carro��vel;Sem V�timas;C�u Claro;Dupla;Reta;1;0;0;0;1;0;0;1
+2024-02-02;sexta-feira;12:19:00;PI;343;2,7;TERESINA;Condutor deixou de manter dist�ncia do ve�culo da frente;Colis�o traseira;Com V�timas Feridas;C�u Claro;Dupla;Rotat�ria;2;0;1;0;0;1;1;2
+2024-02-02;sexta-feira;20:50:00;PI;343;2,5;TERESINA;Aus�ncia de rea��o do condutor;Colis�o traseira;Com V�timas Feridas;C�u Claro;Dupla;"Reta;Declive                  ";2;0;1;0;0;1;1;2
+2024-02-03;s�bado;11:40:00;PI;343;334;TERESINA;Manobra de mudan�a de faixa;Colis�o lateral mesmo sentido;Com V�timas Feridas;C�u Claro;Dupla;"Reta;Retorno Regulamentado    ";2;0;1;0;1;0;1;2
+2024-02-04;domingo;16:00:00;PI;343;260;CAMPO MAIOR;Transitar na contram�o;Colis�o lateral sentido oposto;Com V�timas Feridas;C�u Claro;Simples;Reta;5;0;1;0;3;1;1;3
+2024-02-04;domingo;18:30:00;PI;343;336;TERESINA;Aus�ncia de rea��o do condutor;Sa�da de leito carro��vel;Sem V�timas;C�u Claro;Dupla;Reta;1;0;0;0;0;1;0;1
+2024-02-04;domingo;20:10:00;PI;343;589,5;FLORIANO;Pedestre andava na pista;Atropelamento de Pedestre;Com V�timas Feridas;C�u Claro;Dupla;"Aclive;Reta                   ";2;0;0;1;1;0;1;2
+2024-02-05;segunda-feira;16:40:00;PI;316;310;PICOS;Aus�ncia de rea��o do condutor;Colis�o traseira;Sem V�timas;C�u Claro;Simples;Reta;3;0;0;0;3;0;0;2
+2024-02-05;segunda-feira;18:20:00;PI;343;1;TERESINA;Aus�ncia de rea��o do condutor;Colis�o lateral mesmo sentido;Com V�timas Feridas;C�u Claro;M�ltipla;Reta;2;0;1;0;1;0;1;2
+2024-02-06;ter�a-feira;07:00:00;PI;343;265,6;CAMPO MAIOR;Acessar a via sem observar a presen�a dos outros ve�culos;Colis�o transversal;Com V�timas Feridas;C�u Claro;Simples;Reta;2;0;0;1;1;0;1;2
+2024-02-06;ter�a-feira;10:50:00;PI;343;307,5;ALTOS;Frear bruscamente;Colis�o traseira;Sem V�timas;C�u Claro;Simples;Reta;2;0;0;0;2;0;0;2
+2024-02-06;ter�a-feira;22:20:00;PI;407;458,5;JAICOS;Aus�ncia de rea��o do condutor;Colis�o traseira;Com V�timas Fatais;C�u Claro;Simples;Reta;3;1;0;1;1;0;1;2
+2024-02-08;quinta-feira;19:00:00;PI;343;312;ALTOS;Transitar no Acostamento;Colis�o lateral sentido oposto;Com V�timas Feridas;C�u Claro;Simples;Reta;2;0;2;0;0;0;2;2
+2024-02-08;quinta-feira;13:00:00;PI;316;316;PICOS;Acessar a via sem observar a presen�a dos outros ve�culos;Colis�o transversal;Com V�timas Feridas;C�u Claro;Simples;Interse��o de Vias;4;0;1;0;3;0;1;2
+2024-02-08;quinta-feira;17:30:00;PI;343;311;ALTOS;Animais na Pista;Atropelamento de Animal;Com V�timas Feridas;C�u Claro;Simples;Reta;2;0;2;0;0;0;2;1
+2024-02-09;sexta-feira;21:00:00;PI;343;593;FLORIANO;Rea��o tardia ou ineficiente do condutor;Tombamento;Com V�timas Feridas;C�u Claro;Simples;Reta;1;0;1;0;0;0;1;1
+2024-02-10;s�bado;12:59:00;PI;343;348,3;TERESINA;Manobra de mudan�a de faixa;Colis�o lateral mesmo sentido;Com V�timas Feridas;C�u Claro;Dupla;Reta;2;0;1;0;1;0;1;2
+2024-02-10;s�bado;15:30:00;PI;316;40;LAGOA DO PIAUI;Acessar a via sem observar a presen�a dos outros ve�culos;Colis�o transversal;Com V�timas Feridas;C�u Claro;Simples;Reta;2;0;1;0;0;1;1;2
+2024-02-12;segunda-feira;12:45:00;PI;316;302,7;PICOS;Condutor deixou de manter dist�ncia do ve�culo da frente;Colis�o traseira;Sem V�timas;C�u Claro;Simples;Reta;3;0;0;0;3;0;0;2
+2024-02-12;segunda-feira;08:10:00;PI;135;456;MONTE ALEGRE DO PIAUI;Condutor Dormindo;Sa�da de leito carro��vel;Com V�timas Feridas;C�u Claro;Simples;Reta;2;0;2;0;0;0;2;1
+2024-01-25;quinta-feira;01:48:00;PI;316;300;PICOS;Ingest�o de �lcool pelo condutor;Colis�o lateral mesmo sentido;Sem V�timas;C�u Claro;Simples;Reta;4;0;0;0;4;0;0;2
+2024-02-12;segunda-feira;13:10:00;PI;343;307;ALTOS;Condutor desrespeitou a ilumina��o vermelha do sem�foro;Colis�o transversal;Com V�timas Fatais;C�u Claro;Simples;"Reta;Interse��o de Vias       ";2;1;0;0;1;0;0;2
+2024-02-14;quarta-feira;00:30:00;PI;407;436,9;GEMINIANO;Aus�ncia de rea��o do condutor;Sa�da de leito carro��vel;Com V�timas Feridas;C�u Claro;Simples;Reta;5;0;2;0;3;0;2;1
+2024-02-15;quinta-feira;08:05:00;PI;343;2;TERESINA;Acessar a via sem observar a presen�a dos outros ve�culos;Queda de ocupante de ve�culo;Com V�timas Feridas;C�u Claro;Dupla;Reta;2;0;1;0;1;0;1;2
+2024-02-16;sexta-feira;13:20:00;PI;343;302,6;ALTOS;Acessar a via sem observar a presen�a dos outros ve�culos;Colis�o transversal;Com V�timas Feridas;C�u Claro;Simples;Reta;2;0;0;2;0;0;2;2
+2024-02-16;sexta-feira;21:20:00;PI;316;13,2;TERESINA;Defici�ncia do Sistema de Ilumina��o/Sinaliza��o;Colis�o com objeto;Com V�timas Feridas;C�u Claro;Dupla;"Retorno Regulamentado;Reta    ";1;0;1;0;0;0;1;1
+2024-02-17;s�bado;13:40:00;PI;230;195;OEIRAS;Acessar a via sem observar a presen�a dos outros ve�culos;Colis�o transversal;Com V�timas Feridas;C�u Claro;Simples;Curva;2;0;1;0;1;0;1;2
+2024-02-17;s�bado;21:20:00;PI;316;350,9;CAMPO GRANDE DO PIAUI;Animais na Pista;Atropelamento de Animal;Com V�timas Feridas;C�u Claro;Simples;Reta;2;0;0;2;0;0;2;1
+2024-01-26;sexta-feira;07:40:00;PI;316;26;DEMERVAL LOBAO;Aus�ncia de rea��o do condutor;Sa�da de leito carro��vel;Com V�timas Feridas;C�u Claro;Dupla;Reta;1;0;0;1;0;0;1;1
+2024-01-01;segunda-feira;01:20:00;PI;343;338,9;TERESINA;Ingest�o de �lcool pelo condutor;Colis�o traseira;Com V�timas Feridas;C�u Claro;Dupla;Curva;2;0;0;1;0;1;1;2
+2024-01-24;quarta-feira;10:30:00;PI;343;306;ALTOS;Aus�ncia de rea��o do condutor;Colis�o lateral mesmo sentido;Com V�timas Feridas;C�u Claro;Simples;Reta;2;0;1;1;0;0;2;2
+2024-02-22;quinta-feira;07:35:00;PI;316;2;TERESINA;Rea��o tardia ou ineficiente do condutor;Colis�o traseira;Com V�timas Feridas;C�u Claro;M�ltipla;Reta;3;0;0;2;1;0;2;2
+2024-02-23;sexta-feira;14:17:00;PI;343;177;PIRIPIRI;Avarias e/ou desgaste excessivo no pneu;Tombamento;Com V�timas Feridas;C�u Claro;Simples;Reta;1;0;1;0;0;0;1;1
+2024-02-24;s�bado;12:00:00;PI;316;415;MARCOLANDIA;Condutor deixou de manter dist�ncia do ve�culo da frente;Colis�o traseira;Com V�timas Feridas;C�u Claro;Simples;Reta;3;0;1;0;2;0;1;2
+2024-02-24;s�bado;16:00:00;PI;135;313;CRISTINO CASTRO;Aus�ncia de rea��o do condutor;Sa�da de leito carro��vel;Com V�timas Feridas;C�u Claro;Simples;Reta;2;0;1;0;1;0;1;1
+2024-02-24;s�bado;18:10:00;PI;316;39,1;LAGOA DO PIAUI;Manobra de mudan�a de faixa;Colis�o frontal;Com V�timas Feridas;C�u Claro;Simples;Reta;3;0;0;2;1;0;2;2
+2024-02-25;domingo;03:30:00;PI;343;12,8;PARNAIBA;Condutor desrespeitou a ilumina��o vermelha do sem�foro;Colis�o transversal;Com V�timas Feridas;C�u Claro;Simples;Interse��o de Vias;2;0;0;1;0;1;1;2
+2024-02-25;domingo;03:40:00;PI;343;340,5;TERESINA;Aus�ncia de rea��o do condutor;Colis�o com objeto;Com V�timas Feridas;C�u Claro;Dupla;Reta;1;0;1;0;0;0;1;1
+2024-02-25;domingo;13:40:00;PI;135;361,8;BOM JESUS;Aus�ncia de rea��o do condutor;Colis�o com objeto;Com V�timas Feridas;C�u Claro;Simples;Reta;1;0;1;0;0;0;1;1
+2024-02-25;domingo;21:00:00;PI;343;349;TERESINA;Ingest�o de �lcool pelo condutor;Colis�o com objeto;Com V�timas Feridas;C�u Claro;Simples;Reta;1;0;1;0;0;0;1;1
+2024-02-26;segunda-feira;06:30:00;PI;343;147;PIRACURUCA;Condutor deixou de manter dist�ncia do ve�culo da frente;Sa�da de leito carro��vel;Com V�timas Feridas;C�u Claro;Simples;Reta;3;0;2;1;0;0;3;1
+2024-02-26;segunda-feira;07:15:00;PI;316;305,5;PICOS;Acesso irregular;Colis�o transversal;Com V�timas Feridas;C�u Claro;M�ltipla;"Curva;Aclive                  ";7;0;0;2;3;2;2;2
+2024-02-26;segunda-feira;13:40:00;PI;343;2;TERESINA;Condutor deixou de manter dist�ncia do ve�culo da frente;Colis�o traseira;Sem V�timas;C�u Claro;M�ltipla;Reta;2;0;0;0;2;0;0;2
+2024-02-26;segunda-feira;15:05:00;PI;343;238;CAMPO MAIOR;Rea��o tardia ou ineficiente do condutor;Colis�o traseira;Com V�timas Feridas;C�u Claro;Simples;Reta;2;0;1;0;1;0;1;2
+2024-02-26;segunda-feira;19:10:00;PI;316;289,3;DOM EXPEDITO LOPES;Animais na Pista;Atropelamento de Animal;Com V�timas Feridas;C�u Claro;Simples;Reta;8;0;1;0;7;0;1;1
+2024-02-27;ter�a-feira;08:10:00;PI;316;10,9;TERESINA;Desrespeitar a prefer�ncia no cruzamento;Colis�o transversal;Com V�timas Feridas;C�u Claro;M�ltipla;"Rotat�ria;Interse��o de Vias  ";2;0;1;0;1;0;1;2
+2024-02-27;ter�a-feira;20:00:00;PI;343;306;ALTOS;Condutor deixou de manter dist�ncia do ve�culo da frente;Colis�o lateral mesmo sentido;Sem V�timas;C�u Claro;Simples;Reta;2;0;0;0;2;0;0;2
+2024-02-28;quarta-feira;08:30:00;PI;343;307,9;ALTOS;Aus�ncia de rea��o do condutor;Colis�o traseira;Sem V�timas;C�u Claro;Simples;Reta;2;0;0;0;2;0;0;2
+2024-02-29;quinta-feira;13:20:00;PI;316;3;TERESINA;Aus�ncia de rea��o do condutor;Colis�o traseira;Com V�timas Feridas;C�u Claro;Dupla;Reta;2;0;0;1;1;0;1;2
+2024-02-24;s�bado;20:03:00;PI;343;345;TERESINA;Aus�ncia de rea��o do condutor;Colis�o transversal;Com V�timas Feridas;C�u Claro;Simples;"Interse��o de Vias;Reta       ";3;0;1;0;1;1;1;3
+2024-02-25;domingo;05:00:00;PI;343;589,1;FLORIANO;Aus�ncia de rea��o do condutor;Colis�o com objeto;Com V�timas Feridas;C�u Claro;Dupla;Reta;2;0;0;1;0;1;1;2
+2024-02-16;sexta-feira;22:00:00;PI;343;306,5;ALTOS;Acessar a via sem observar a presen�a dos outros ve�culos;Colis�o transversal;Com V�timas Feridas;C�u Claro;Simples;Reta;2;0;0;1;0;1;1;2
+2024-01-11;quinta-feira;07:20:00;PI;316;333;GEMINIANO;Acessar a via sem observar a presen�a dos outros ve�culos;Colis�o transversal;Com V�timas Fatais;Chuva;Simples;Interse��o de Vias;2;1;0;0;1;0;0;2
+2024-02-10;s�bado;10:05:00;PI;343;15;PARNAIBA;Desrespeitar a prefer�ncia no cruzamento;Colis�o transversal;Sem V�timas;Chuva;Dupla;"Reta;Interse��o de Vias       ";2;0;0;0;2;0;0;2
+2024-02-11;domingo;03:20:00;PI;343;344;TERESINA;Manobra de mudan�a de faixa;Colis�o lateral sentido oposto;Sem V�timas;Chuva;Simples;Reta;2;0;0;0;2;0;0;2
+2024-02-17;s�bado;19:30:00;PI;316;117,4;PASSAGEM FRANCA DO PIAUI;Transitar na contram�o;Colis�o frontal;Com V�timas Fatais;Chuva;Simples;"Reta;Interse��o de Vias       ";4;2;0;0;2;0;0;2
+2024-02-21;quarta-feira;07:15:00;PI;343;328,4;TERESINA;Acumulo de �gua sobre o pavimento;Colis�o lateral sentido oposto;Com V�timas Feridas;Chuva;Simples;Reta;2;0;0;1;1;0;1;2
+2024-02-09;sexta-feira;19:50:00;PI;343;345,2;TERESINA;Manobra de mudan�a de faixa;Colis�o transversal;Com V�timas Feridas;Chuva;Dupla;Reta;2;0;0;1;1;0;1;2
+2024-01-02;ter�a-feira;16:45:00;PI;135;556;SAO GONCALO DO GURGUEIA;Aus�ncia de rea��o do condutor;Colis�o com objeto;Com V�timas Feridas;Chuva;Simples;"Declive;Curva                 ";3;0;3;0;0;0;3;1
+2024-01-02;ter�a-feira;16:15:00;PI;135;556;SAO GONCALO DO GURGUEIA;Pista Escorregadia;Colis�o com objeto;Com V�timas Feridas;Chuva;Simples;"Declive;Curva                 ";3;0;2;0;1;0;2;1
+2024-01-02;ter�a-feira;14:00:00;PI;135;556;SAO GONCALO DO GURGUEIA;Pista Escorregadia;Sa�da de leito carro��vel;Com V�timas Feridas;Chuva;Simples;"Declive;Curva                 ";2;0;1;0;1;0;1;1
+2024-01-02;ter�a-feira;23:30:00;PI;316;5;TERESINA;Aus�ncia de rea��o do condutor;Colis�o traseira;Com V�timas Fatais;Chuva;Simples;"Reta;Interse��o de Vias       ";2;1;1;0;0;0;1;2
+2024-01-03;quarta-feira;12:00:00;PI;235;382;BOM JESUS;Acumulo de �gua sobre o pavimento;Sa�da de leito carro��vel;Com V�timas Feridas;Chuva;Simples;Curva;3;0;1;0;2;0;1;1
+2024-01-11;quinta-feira;13:00:00;PI;135;538;SAO GONCALO DO GURGUEIA;Acumulo de �gua sobre o pavimento;Sa�da de leito carro��vel;Com V�timas Fatais;Chuva;Simples;Reta;2;1;1;0;0;0;1;1
+2024-01-12;sexta-feira;09:25:00;PI;343;338,8;TERESINA;Acumulo de �gua sobre o pavimento;Sa�da de leito carro��vel;Com V�timas Fatais;Chuva;Dupla;Curva;1;1;0;0;0;0;0;1
+2024-01-26;sexta-feira;16:00:00;PI;343;572,3;FLORIANO;Demais falhas mec�nicas ou el�tricas;Inc�ndio;Sem V�timas;Chuva;Simples;Reta;1;0;0;0;0;1;0;1
+2024-01-27;s�bado;22:30:00;PI;316;7;TERESINA;Aus�ncia de rea��o do condutor;Queda de ocupante de ve�culo;Com V�timas Feridas;Chuva;Dupla;Aclive;1;0;0;1;0;0;1;1
+2024-02-01;quinta-feira;05:40:00;PI;343;13;PARNAIBA;Rea��o tardia ou ineficiente do condutor;Colis�o com objeto;Sem V�timas;Chuva;Dupla;Interse��o de Vias;1;0;0;0;0;1;0;1
+2024-02-08;quinta-feira;16:30:00;PI;316;121;ELESBAO VELOSO;Chuva;Colis�o traseira;Com V�timas Feridas;Chuva;Simples;Reta;7;0;1;0;6;0;1;2
+2024-02-09;sexta-feira;20:50:00;PI;343;9,9;PARNAIBA;Manobra de mudan�a de faixa;Colis�o transversal;Com V�timas Feridas;Chuva;Simples;Reta;2;0;1;0;1;0;1;2
+2024-02-09;sexta-feira;20:47:00;PI;316;6;TERESINA;Rea��o tardia ou ineficiente do condutor;Colis�o traseira;Sem V�timas;Chuva;Dupla;Reta;2;0;0;0;1;1;0;2
+2024-02-09;sexta-feira;19:00:00;PI;135;636;CRISTALANDIA DO PIAUI;Rea��o tardia ou ineficiente do condutor;Sa�da de leito carro��vel;Com V�timas Feridas;Chuva;Simples;"Reta;Aclive                   ";2;0;2;0;0;0;2;1
+2024-02-10;s�bado;11:30:00;PI;343;55;BURITI DOS LOPES;Acumulo de �gua sobre o pavimento;Sa�da de leito carro��vel;Sem V�timas;Chuva;Simples;Reta;1;0;0;0;0;1;0;1
+2024-02-10;s�bado;17:50:00;PI;316;178;VALENCA DO PIAUI;Acumulo de �gua sobre o pavimento;Sa�da de leito carro��vel;Com V�timas Feridas;Chuva;Simples;"Declive;Curva                 ";2;0;2;0;0;0;2;1
+2024-02-10;s�bado;22:11:00;PI;343;590,1;FLORIANO;Aus�ncia de rea��o do condutor;Colis�o com objeto;Com V�timas Fatais;Chuva;Dupla;"Interse��o de Vias;Rotat�ria  ";1;1;0;0;0;0;0;1
+2024-02-16;sexta-feira;10:00:00;PI;316;10,9;TERESINA;Desrespeitar a prefer�ncia no cruzamento;Colis�o transversal;Com V�timas Feridas;Chuva;M�ltipla;"Interse��o de Vias;Rotat�ria  ";4;0;1;1;2;0;2;2
+2024-01-06;s�bado;21:30:00;PI;222;65;BRASILEIRA;Objeto est�tico sobre o leito carro��vel;Colis�o com objeto;Com V�timas Feridas;Chuva;Simples;Reta;3;0;0;2;1;0;2;1
+2024-02-26;segunda-feira;21:50:00;PI;316;1,8;TERESINA;Pista esburacada;Queda de ocupante de ve�culo;Com V�timas Feridas;Chuva;M�ltipla;Rotat�ria;1;0;1;0;0;0;1;1
+2024-02-21;quarta-feira;17:40:00;PI;NA;NA;PAULISTANA;Demais falhas mec�nicas ou el�tricas;Eventos at�picos;Sem V�timas;Chuva;Simples;Reta;2;0;0;0;2;0;0;1
+2024-01-02;ter�a-feira;15:10:00;PI;343;52,7;BURITI DOS LOPES;Chuva;Sa�da de leito carro��vel;Com V�timas Fatais;Chuva;Simples;Reta;5;1;4;0;0;0;4;1
+2024-02-18;domingo;12:00:00;PI;343;519,2;AMARANTE;Rea��o tardia ou ineficiente do condutor;Colis�o lateral sentido oposto;Com V�timas Feridas;Chuva;Simples;"Reta;Aclive                   ";4;0;2;0;2;0;2;2
+2024-01-12;sexta-feira;14:30:00;PI;343;482;ANGICAL DO PIAUI;Chuva;Capotamento;Com V�timas Feridas;Chuva;Simples;Curva;1;0;1;0;0;0;1;1
